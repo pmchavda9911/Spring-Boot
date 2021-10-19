@@ -1,0 +1,10 @@
+2021-09-27 11:09:44 INFO  2280 [main] - Starting Application using Java 16.0.2 on DESKTOP-C46TG8G with PID 2280 (C:\Users\Administrator\Downloads\spring\spring-boot\build\classes\java\main started by Administrator in C:\Users\Administrator\Downloads\spring\spring-boot)
+2021-09-27 11:09:44 INFO  2280 [main] - No active profile set, falling back to default profiles: default
+2021-09-27 11:09:46 INFO  2280 [main] - Tomcat initialized with port(s): 8070 (http)
+2021-09-27 11:09:46 INFO  2280 [main] - Starting service [Tomcat]
+2021-09-27 11:09:46 INFO  2280 [main] - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-09-27 11:09:46 INFO  2280 [main] - Initializing Spring embedded WebApplicationContext
+2021-09-27 11:09:46 INFO  2280 [main] - Root WebApplicationContext: initialization completed in 2093 ms
+2021-09-27 11:09:46 INFO  2280 [main] - Filter specificFilter was not registered (possibly already registered?)
+2021-09-27 11:09:47 INFO  2280 [main] - Tomcat started on port(s): 8070 (http) with context path ''
+2021-09-27 11:09:47 INFO  2280 [main] - Started Application in 3.669 seconds (JVM running for 4.355)
